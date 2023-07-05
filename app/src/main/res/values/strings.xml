@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercicio2</string>
+    <string name="masculino">Masculino</string>
+    <string name="feminino">Feminino</string>
+    <string name="Exibir">exibir</string>
+    <string name="limpar">Limpar</string>
+</resources>
